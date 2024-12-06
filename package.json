@@ -17,5 +17,8 @@
     "url": "https://github.com/GOPIKASRI05/tracker-backend/issues"
   },
   "homepage": "https://github.com/GOPIKASRI05/tracker-backend#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
