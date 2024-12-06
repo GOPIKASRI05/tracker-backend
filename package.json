@@ -19,6 +19,7 @@
   "homepage": "https://github.com/GOPIKASRI05/tracker-backend#readme",
   "description": "",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4"
   }
 }
