@@ -19,6 +19,8 @@
   "homepage": "https://github.com/GOPIKASRI05/tracker-backend#readme",
   "description": "",
   "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "mongoose": "^8.8.4"
   }
